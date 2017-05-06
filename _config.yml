@@ -26,10 +26,9 @@ url: "https://400538.github.io/learn-jekyll/" # the base hostname & protocol for
 markdown: kramdown
 gems:
   - jekyll-feed
-  - Gemfile.lock
 exclude:
   - Gemfile
-  - 
+  - Gemfile.lock
   - mock/*
 
 
