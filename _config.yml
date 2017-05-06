@@ -31,4 +31,4 @@ exclude:
   - Gemfile.lock
   - mock/*
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
