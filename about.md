@@ -23,12 +23,17 @@ Gloria Leckie
 
 <strong>webové zdroje:</strong>
 
-http://www.londonpubliclibrary.ca/story/new-library-board-chair-gloria-leckie. 
-https://arts-ed.csu.edu.au/schools/sis/research/seminars/leckie
-http://www.journals.uchicago.edu/doi/abs/10.1086/519409
-https://www.amazon.ca/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Gloria+J.+Leckie&search-alias=books-ca
-https://www.google.cz/search?tbm=bks&hl=cs&q=gloria+leckie
-http://www.blackcatjewellery.ca/
+[London Public Library](http://www.londonpubliclibrary.ca/story/new-library-board-chair-gloria-leckie)
+
+[Charles Sturt University](https://arts-ed.csu.edu.au/schools/sis/research/seminars/leckie)
+
+[University of Chicago Press Journals](http://www.journals.uchicago.edu/doi/abs/10.1086/519409)
+
+[Amazon - knihy](https://www.amazon.ca/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Gloria+J.+Leckie&search-alias=books-ca)
+
+[Google - knihy](https://www.google.cz/search?tbm=bks&hl=cs&q=gloria+leckie)
+
+[Black Cat Jewellery](http://www.blackcatjewellery.ca/)
 
 <strong>Ne-webové zdroje:</strong>
 
