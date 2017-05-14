@@ -10,8 +10,7 @@ Akademická půda
 <strong>Cíl webu:</strong> 
 
 Představit Glorie J. Leckie, která patří k významným osobnostem informační vědy.
-
-Ve své práci se budeme věnovat oblasti informační vědy a tudíž bychom vám rády představily Gloriei Leckii, která je významnou osobností knihovnictví a informační vědy.
+*Ve své práci* se budeme věnovat oblasti informační vědy a tudíž bychom vám rády představily Gloriei Leckii, která je významnou osobností knihovnictví a informační vědy.
 Pozornost bude věnována jejímu životu a profesním úspěchům, zpracování bude formou medailonku, který bude obsahovat přehled její dosavadní práce, včetně vydaných publikací
 
 Gloria Leckie je emeritní profesorka na Univerzitě v Kanadě. V současné době Georgie Leckie zkoumá tři oblasti knihovnictví a informační vědy: jako vědní disciplínu, jako vzdělávací prostor pro moderní knihovníky, a jako profesi, která zastává významnou roli v oblasti informační vědy.
